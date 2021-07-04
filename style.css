@@ -4,6 +4,7 @@ span{
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    
 }
 a{
     background-image: -moz-linear-gradient(orange s);
@@ -30,3 +31,4 @@ width: 60%;
 h1{
     font-size: 50px;
 }
+
