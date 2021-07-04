@@ -31,4 +31,29 @@ width: 60%;
 h1{
     font-size: 50px;
 }
-
+#exprience{
+    background-color: white;
+    border-left: solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 1%;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#exprience1{
+    background-color: white;
+    border-left: solid;
+    border-image: linear-gradient(green, blue);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 1%;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+h2{
+    color: indigo;
+}
