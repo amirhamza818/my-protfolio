@@ -1,0 +1,32 @@
+span{
+    color: orange;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+a{
+    background-image: -moz-linear-gradient(orange s);
+}
+section{
+    display: flex;
+    margin: 1%;
+   
+}
+.half{
+    width: 50%;
+}
+.half img{
+width: 60%;
+}
+.button{
+    text-decoration: none;
+  background-image: linear-gradient(red, tomato
+);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+    }
+h1{
+    font-size: 50px;
+}
